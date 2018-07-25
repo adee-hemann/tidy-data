@@ -17,7 +17,7 @@ For each record it is provided:
 - An identifier of the subject who carried out the experiment.
 ===================================================================================================================
 
-## Data manipulation 
+## Data manipulation : Code
 
 An R script called run_analysis.R that does the following was created:
 
@@ -68,7 +68,7 @@ bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of e
 angle(): Angle between to vectors
 
 
-
+### Variables
 
 Subject - volunteer identifier (1:30)
 1
@@ -109,8 +109,6 @@ Activity - type of activity performed
 4 SITTING
 5 STANDING
 6 LAYING
-
-
 
 
 tBodyAcc-mean()-X	
